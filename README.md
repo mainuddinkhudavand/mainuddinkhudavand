@@ -1,20 +1,20 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=MAINUDDIN%20KHUDAVAND&fontSize=36&animation=twinkling&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Mainuddin Khudavand Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7,06b6d4&height=250&section=header&text=Mainuddin%20Khudavand&fontSize=30&animation=fadeIn&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20MERN%20Developer&descSize=15&descAlignY=70" alt="Mainuddin Khudavand Header" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=818cf8&width=435&center=true&vCenter=true&lines=Aspiring+AI%2FML+Engineer;Full+Stack+Developer+(MERN);Agentic+AI+Enthusiast;Building+intelligent+applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06b6d4&width=600&center=true&vCenter=true&lines=Aspiring+AI%2FML+Engineer;Full+Stack+MERN+Developer;Agentic+AI+Enthusiast;Building+Intelligent+Applications" alt="Typing Animation" />
 </p>
 
 <!-- Profile Badges & View Counter -->
 <p align="center">
   <a href="https://github.com/mainuddinkhudavand">
-    <img src="https://img.shields.io/badge/Open%20To%20Work-Active-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work" />
+    <img src="https://img.shields.io/badge/Open%20To%20Work-Active-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work" />
   </a>
-  <img src="https://komarev.com/normal-badge/?username=mainuddinkhudavand&color=6366f1&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/mainuddinkhudavand?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mainuddinkhudavand&color=a855f7&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/mainuddinkhudavand?label=Followers&style=for-the-badge&color=a855f7" alt="Followers" />
 </p>
 
 ---
@@ -43,6 +43,8 @@ const mainuddin = {
 
 ### 🚀 Featured Projects
 
+<!-- Note: For these repository pin cards to display, the repositories must be PUBLIC on your GitHub profile and the repository names must match exactly. -->
+
 #### 1. **Tradyfi** (Full Stack Trading Platform)
 *Built a modern trading and investment platform replicating Zerodha's features with enhancements.*
 * **Live Demo:** [App](https://tradyfi-1-78iy.vercel.app) | [Dashboard](https://tradyfi-dashboard.vercel.app/)
@@ -57,7 +59,7 @@ const mainuddin = {
 
 <p align="left">
   <a href="https://github.com/mainuddinkhudavand/Tradyfi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=Tradyfi&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&bg_color=0f172a&border_color=312e81" alt="Tradyfi Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=Tradyfi&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b" alt="Tradyfi Repo Card" />
   </a>
 </p>
 
@@ -77,7 +79,7 @@ const mainuddin = {
 
 <p align="left">
   <a href="https://github.com/mainuddinkhudavand/empowering-villages-through-digital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=empowering-villages-through-digital&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&bg_color=0f172a&border_color=312e81" alt="Empowering Villages Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=empowering-villages-through-digital&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b" alt="Empowering Villages Repo Card" />
   </a>
 </p>
 
@@ -96,7 +98,7 @@ const mainuddin = {
 
 <p align="left">
   <a href="https://github.com/mainuddinkhudavand/WanderLust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=WanderLust&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&bg_color=0f172a&border_color=312e81" alt="WanderLust Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=WanderLust&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b" alt="WanderLust Repo Card" />
   </a>
 </p>
 
@@ -136,18 +138,18 @@ const mainuddin = {
 
 <!-- Stats Grid -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mainuddinkhudavand&show_icons=true&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&bg_color=0f172a&border_color=312e81&hide_rank=false" alt="Mainuddin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainuddinkhudavand&layout=compact&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&bg_color=0f172a&border_color=312e81" alt="Mainuddin's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mainuddinkhudavand&show_icons=true&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b&hide_rank=false" alt="Mainuddin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mainuddinkhudavand&layout=compact&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b" alt="Mainuddin's Top Languages" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mainuddinkhudavand&theme=dark&background=0f172a&border=312e81&stroke=818cf8&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" alt="Mainuddin's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mainuddinkhudavand&background=0b0f19&border=1e1b4b&stroke=1e1b4b&ring=06b6d4&fire=a855f7&currStreakNum=a855f7&sideNums=cbd5e1&currStreakLabel=cbd5e1" alt="Mainuddin's Streak Stats" />
 </p>
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainuddinkhudavand&bg_color=0f172a&color=cbd5e1&line=818cf8&point=a78bfa&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainuddinkhudavand&bg_color=0b0f19&color=cbd5e1&line=06b6d4&point=a855f7&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -168,5 +170,5 @@ const mainuddin = {
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7,06b6d4&height=120&section=footer" alt="Footer Banner" />
 </p>
