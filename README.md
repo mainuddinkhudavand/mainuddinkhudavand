@@ -59,7 +59,7 @@ const mainuddin = {
 
 <p align="left">
   <a href="https://github.com/mainuddinkhudavand/Tradyfi">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=mainuddinkhudavand&repo=Tradyfi&theme=tokyonight" alt="Tradyfi Repo Card" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin?username=mainuddinkhudavand&repo=Tradyfi&theme=tokyonight" alt="Tradyfi Repo Card" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@ const mainuddin = {
 
 <p align="left">
   <a href="https://github.com/mainuddinkhudavand/Wanderlust">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=mainuddinkhudavand&repo=Wanderlust&theme=tokyonight" alt="Wanderlust Repo Card" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin?username=mainuddinkhudavand&repo=Wanderlust&theme=tokyonight" alt="Wanderlust Repo Card" />
   </a>
 </p>
 
@@ -125,16 +125,26 @@ const mainuddin = {
 
 ### 📊 GitHub Analytics & Trophies
 
-<!-- Trophies (Using the fully functional cdnsoft.net mirror to bypass Vercel 402/503 errors) -->
+<!-- Trophies (Using the fully functional ryglcloud.net mirror to bypass Vercel 402/503 errors and clear camo cache) -->
 <p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=mainuddinkhudavand&theme=dracula&no-bg=true&no-frame=true" alt="Mainuddin's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=mainuddinkhudavand&theme=dracula&no-bg=true&no-frame=true" alt="Mainuddin's GitHub Trophies" />
 </p>
 
-<!-- Stats Grid (Using the fully functional anuraghazra Vercel mirror to bypass main-thread Vercel 503 limits) -->
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=mainuddinkhudavand&show_icons=true&theme=tokyonight&hide_rank=false" alt="Mainuddin's GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=mainuddinkhudavand&layout=compact&theme=tokyonight" alt="Mainuddin's Top Languages" />
-</p>
+<!-- Stats Grid (Using the fully functional github-readme-stats-one mirror to bypass Vercel 503 limits and clear camo cache) -->
+<table align="center" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://github.com/mainuddinkhudavand">
+        <img src="https://github-readme-stats-one.vercel.app/api?username=mainuddinkhudavand&show_icons=true&theme=tokyonight&hide_rank=false" alt="Mainuddin's GitHub Stats" height="195" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://github.com/mainuddinkhudavand">
+        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=mainuddinkhudavand&layout=compact&theme=tokyonight" alt="Mainuddin's Top Languages" height="195" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Streak Stats -->
 <p align="center">
@@ -143,7 +153,7 @@ const mainuddin = {
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainuddinkhudavand&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainuddinkhudavand&bg_color=0d1117&color=c084fc&line=06b6d4&point=a855f7&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
