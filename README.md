@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7,06b6d4&height=250&section=header&text=Mainuddin%20Khudavand&fontSize=30&animation=fadeIn&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20MERN%20Developer&descSize=15&descAlignY=70" alt="Mainuddin Khudavand Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc,c084fc,f472b6&height=250&section=header&text=Mainuddin%20Khudavand&fontSize=32&animation=scaleIn&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20MERN%20Developer&descSize=15&descAlignY=65" alt="Mainuddin Khudavand Header" />
 </p>
 
 <!-- Typing Animation -->
@@ -11,10 +11,10 @@
 <!-- Profile Badges & View Counter -->
 <p align="center">
   <a href="https://github.com/mainuddinkhudavand">
-    <img src="https://img.shields.io/badge/Open%20To%20Work-Active-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work" />
+    <img src="https://img.shields.io/badge/Open%20To%20Work-Active-c084fc?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mainuddinkhudavand&color=a855f7&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/mainuddinkhudavand?label=Followers&style=for-the-badge&color=a855f7" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mainuddinkhudavand&color=c084fc&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/mainuddinkhudavand?label=Followers&style=for-the-badge&color=c084fc" alt="Followers" />
 </p>
 
 ---
@@ -59,35 +59,15 @@ const mainuddin = {
 
 <p align="left">
   <a href="https://github.com/mainuddinkhudavand/Tradyfi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=Tradyfi&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b" alt="Tradyfi Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=mainuddinkhudavand&repo=Tradyfi&theme=tokyonight" alt="Tradyfi Repo Card" />
   </a>
 </p>
 
 ---
 
-#### 2. **Empowering Villages Through Digital Governance**
-*Developed a multi-tier governance platform featuring structured workflows to raise complaints and oversee workflows.*
-* **Live Demo:** [Live App](https://empowering-villages-through-digital.vercel.app/)
-* **Code:** [GitHub Repository](https://github.com/mainuddinkhudavand/empowering-villages-through-digital)
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js, Tailwind CSS |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Core Services | JWT Auth, SMTP Email Logic, REST APIs |
-
-<p align="left">
-  <a href="https://github.com/mainuddinkhudavand/empowering-villages-through-digital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=empowering-villages-through-digital&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b" alt="Empowering Villages Repo Card" />
-  </a>
-</p>
-
----
-
-#### 3. **WanderLust** (Full Stack Vacation Rental Platform)
+#### 2. **Wanderlust** (Full Stack Vacation Rental Platform)
 *Built an end-to-end vacation rental application with intuitive listings, secure booking, and role-based user access.*
-* **Code:** [GitHub Repository](https://github.com/mainuddinkhudavand/WanderLust)
+* **Code:** [GitHub Repository](https://github.com/mainuddinkhudavand/Wanderlust)
 
 | Layer | Technology |
 |---|---|
@@ -97,10 +77,24 @@ const mainuddin = {
 | Security | JWT-based Authentication |
 
 <p align="left">
-  <a href="https://github.com/mainuddinkhudavand/WanderLust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mainuddinkhudavand&repo=WanderLust&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b" alt="WanderLust Repo Card" />
+  <a href="https://github.com/mainuddinkhudavand/Wanderlust">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=mainuddinkhudavand&repo=Wanderlust&theme=tokyonight" alt="Wanderlust Repo Card" />
   </a>
 </p>
+
+---
+
+#### 3. **Empowering Villages Through Digital Governance**
+*Developed a multi-tier governance platform featuring structured workflows to raise complaints and oversee workflows.*
+* **Live Demo:** [Live App](https://empowering-villages-through-digital.vercel.app/)
+* *(Note: Pinned repository card is omitted as the code is hosted privately or under an alternative repository name.)*
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js, Tailwind CSS |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Core Services | JWT Auth, SMTP Email Logic, REST APIs |
 
 ---
 
@@ -133,23 +127,23 @@ const mainuddin = {
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mainuddinkhudavand&theme=dracula&no-bg=true&no-frame=true" alt="Mainuddin's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=mainuddinkhudavand&theme=dracula&no-bg=true&no-frame=true" alt="Mainuddin's GitHub Trophies" />
 </p>
 
 <!-- Stats Grid -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mainuddinkhudavand&show_icons=true&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b&hide_rank=false" alt="Mainuddin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mainuddinkhudavand&layout=compact&title_color=a855f7&icon_color=06b6d4&text_color=cbd5e1&bg_color=0b0f19&border_color=1e1b4b" alt="Mainuddin's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mainuddinkhudavand&show_icons=true&theme=tokyonight&hide_rank=false" alt="Mainuddin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mainuddinkhudavand&layout=compact&theme=tokyonight" alt="Mainuddin's Top Languages" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mainuddinkhudavand&background=0b0f19&border=1e1b4b&stroke=1e1b4b&ring=06b6d4&fire=a855f7&currStreakNum=a855f7&sideNums=cbd5e1&currStreakLabel=cbd5e1" alt="Mainuddin's Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=mainuddinkhudavand&theme=tokyonight" alt="Mainuddin's Streak Stats" />
 </p>
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainuddinkhudavand&bg_color=0b0f19&color=cbd5e1&line=06b6d4&point=a855f7&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainuddinkhudavand&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 ---
@@ -170,5 +164,5 @@ const mainuddin = {
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7,06b6d4&height=120&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc,c084fc,f472b6&height=120&section=footer" alt="Footer Banner" />
 </p>
